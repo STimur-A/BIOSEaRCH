@@ -1,5 +1,6 @@
 """
 Apply SVM to predict disease genes.
+Hyperparameters are tuned via GridSearchCV.
 Author: Gennady Khvorykh, info [at] inzilico.com
 """
 
