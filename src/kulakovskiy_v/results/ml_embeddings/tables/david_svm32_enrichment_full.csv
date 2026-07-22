@@ -1,0 +1,196 @@
+Category,Term,Count,P-Value,Benjamini
+GOTERM_CC_DIRECT,cytoplasm,73.0,5.7e-16,1.3e-13
+GOTERM_CC_DIRECT,cytosol,66.0,6.6e-15,7.3e-13
+GOTERM_CC_DIRECT,nucleus,66.0,1.2e-11,9.1e-10
+GOTERM_MF_DIRECT,protein binding,96.0,1.2e-10,3.5e-08
+GOTERM_CC_DIRECT,nucleoplasm,44.0,4e-07,2.2e-05
+GOTERM_MF_DIRECT,ubiquitin protein ligase binding,12.0,4.2e-07,6.1e-05
+GOTERM_CC_DIRECT,protein-containing complex,17.0,1.5e-06,6.7e-05
+KEGG_PATHWAY,Pathways in cancer,16.0,1.7e-06,0.00031
+KEGG_PATHWAY,Shigellosis,11.0,6.2e-06,0.00059
+KEGG_PATHWAY,Autophagy - animal,9.0,1.6e-05,0.00099
+KEGG_PATHWAY,Endocrine resistance,7.0,5e-05,0.0023
+GOTERM_BP_DIRECT,apoptotic process,14.0,5.6e-05,0.03
+GOTERM_BP_DIRECT,positive regulation of transcription by RNA polymerase II,19.0,5.9e-05,0.03
+KEGG_PATHWAY,Pancreatic cancer,6.0,0.00016,0.006
+GOTERM_BP_DIRECT,positive regulation of canonical NF-kappaB signal transduction,8.0,0.00023,0.075
+GOTERM_BP_DIRECT,cellular response to oxidative stress,6.0,0.00031,0.075
+KEGG_PATHWAY,PD-L1 expression and PD-1 checkpoint pathway in cancer,6.0,0.00033,0.01
+GOTERM_MF_DIRECT,identical protein binding,22.0,0.00034,0.032
+GOTERM_BP_DIRECT,ubiquitin-dependent protein catabolic process,8.0,0.00037,0.075
+GOTERM_BP_DIRECT,protein K63-linked ubiquitination,5.0,0.00048,0.081
+GOTERM_MF_DIRECT,RNA binding,19.0,0.00064,0.047
+KEGG_PATHWAY,HIF-1 signaling pathway,6.0,0.00083,0.022
+GOTERM_MF_DIRECT,protein kinase binding,10.0,0.00087,0.051
+KEGG_PATHWAY,Apoptosis - multiple species,4.0,0.0012,0.029
+KEGG_PATHWAY,NOD-like receptor signaling pathway,7.0,0.0015,0.032
+KEGG_PATHWAY,Kaposi sarcoma-associated herpesvirus infection,7.0,0.002,0.037
+GOTERM_BP_DIRECT,DNA damage response,8.0,0.0022,0.31
+GOTERM_MF_DIRECT,ubiquitin-protein transferase activity,7.0,0.0022,0.11
+KEGG_PATHWAY,Ubiquitin mediated proteolysis,6.0,0.0026,0.044
+KEGG_PATHWAY,Human immunodeficiency virus 1 infection,7.0,0.003,0.044
+KEGG_PATHWAY,Longevity regulating pathway,5.0,0.0031,0.044
+GOTERM_BP_DIRECT,mitotic spindle organization,4.0,0.0039,0.36
+GOTERM_BP_DIRECT,JNK cascade,4.0,0.0041,0.36
+GOTERM_BP_DIRECT,centrosome localization,3.0,0.0042,0.36
+GOTERM_BP_DIRECT,cellular response to oxygen-containing compound,3.0,0.0042,0.36
+GOTERM_BP_DIRECT,cell division,8.0,0.0045,0.36
+GOTERM_BP_DIRECT,signal transduction,16.0,0.0046,0.36
+KEGG_PATHWAY,Necroptosis,6.0,0.0053,0.07
+KEGG_PATHWAY,Hepatocellular carcinoma,6.0,0.0056,0.07
+GOTERM_BP_DIRECT,cellular response to hydrogen peroxide,4.0,0.006,0.42
+GOTERM_BP_DIRECT,nuclear migration,3.0,0.0066,0.42
+GOTERM_BP_DIRECT,negative regulation of apoptotic process,9.0,0.0067,0.42
+KEGG_PATHWAY,Toxoplasmosis,5.0,0.0067,0.079
+GOTERM_BP_DIRECT,TOR signaling,3.0,0.0072,0.42
+GOTERM_BP_DIRECT,positive regulation of protein ubiquitination,4.0,0.0075,0.42
+GOTERM_CC_DIRECT,nuclear speck,8.0,0.0076,0.28
+GOTERM_BP_DIRECT,protein ubiquitination,9.0,0.008,0.42
+KEGG_PATHWAY,Longevity regulating pathway - multiple species,4.0,0.0083,0.084
+KEGG_PATHWAY,TNF signaling pathway,5.0,0.0083,0.084
+KEGG_PATHWAY,Neurotrophin signaling pathway,5.0,0.0085,0.084
+GOTERM_BP_DIRECT,regulation of neuron apoptotic process,3.0,0.009,0.42
+GOTERM_BP_DIRECT,positive regulation of glycolytic process,3.0,0.009,0.42
+GOTERM_MF_DIRECT,"DNA-binding transcription activator activity, RNA polymerase II-specific",8.0,0.0091,0.38
+GOTERM_BP_DIRECT,cerebral cortex development,4.0,0.01,0.42
+GOTERM_BP_DIRECT,nuclear migration along microfilament,2.0,0.01,0.42
+GOTERM_BP_DIRECT,regulation of apoptosis involved in tissue homeostasis,2.0,0.01,0.42
+GOTERM_BP_DIRECT,protein polyubiquitination,5.0,0.01,0.42
+KEGG_PATHWAY,Acute myeloid leukemia,4.0,0.011,0.1
+KEGG_PATHWAY,Prolactin signaling pathway,4.0,0.012,0.1
+KEGG_PATHWAY,Epstein-Barr virus infection,6.0,0.012,0.1
+KEGG_PATHWAY,RIG-I-like receptor signaling pathway,4.0,0.012,0.1
+GOTERM_BP_DIRECT,defense response to bacterium,5.0,0.013,0.5
+KEGG_PATHWAY,Measles,5.0,0.013,0.1
+KEGG_PATHWAY,Insulin signaling pathway,5.0,0.014,0.1
+KEGG_PATHWAY,p53 signaling pathway,4.0,0.014,0.1
+KEGG_PATHWAY,Lipid and atherosclerosis,6.0,0.015,0.1
+KEGG_PATHWAY,MAPK signaling pathway,7.0,0.015,0.1
+GOTERM_MF_DIRECT,peptidyl-proline 4-dioxygenase activity,2.0,0.015,0.55
+GOTERM_BP_DIRECT,apoptotic process involved in mammary gland involution,2.0,0.015,0.54
+GOTERM_BP_DIRECT,nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration,2.0,0.015,0.54
+GOTERM_BP_DIRECT,activation of innate immune response,3.0,0.015,0.54
+KEGG_PATHWAY,Human T-cell leukemia virus 1 infection,6.0,0.017,0.11
+GOTERM_BP_DIRECT,regulation of cytokinesis,3.0,0.018,0.6
+KEGG_PATHWAY,Human cytomegalovirus infection,6.0,0.018,0.11
+KEGG_PATHWAY,Chemical carcinogenesis - reactive oxygen species,6.0,0.018,0.11
+GOTERM_BP_DIRECT,adipose tissue development,3.0,0.019,0.61
+GOTERM_BP_DIRECT,positive regulation of protein localization to nucleus,3.0,0.019,0.61
+GOTERM_MF_DIRECT,linear polyubiquitin binding,2.0,0.02,0.59
+GOTERM_BP_DIRECT,positive regulation of apoptotic process involved in mammary gland involution,2.0,0.02,0.61
+GOTERM_BP_DIRECT,cellular response to oxygen-glucose deprivation,2.0,0.02,0.61
+KEGG_PATHWAY,Colorectal cancer,4.0,0.021,0.12
+KEGG_PATHWAY,Non-alcoholic fatty liver disease,5.0,0.021,0.12
+GOTERM_BP_DIRECT,cellular response to stress,3.0,0.022,0.65
+KEGG_PATHWAY,Hepatitis B,5.0,0.024,0.13
+GOTERM_MF_DIRECT,ATP binding,15.0,0.024,0.59
+KEGG_PATHWAY,Small cell lung cancer,4.0,0.024,0.13
+GOTERM_MF_DIRECT,transcription regulator inhibitor activity,3.0,0.025,0.59
+GOTERM_BP_DIRECT,platelet aggregation,3.0,0.025,0.71
+GOTERM_MF_DIRECT,hypoxia-inducible factor-proline dioxygenase activity,2.0,0.025,0.59
+KEGG_PATHWAY,IL-17 signaling pathway,4.0,0.025,0.13
+KEGG_PATHWAY,Salmonella infection,6.0,0.025,0.13
+GOTERM_BP_DIRECT,T cell receptor signaling pathway,4.0,0.027,0.75
+GOTERM_CC_DIRECT,chromatin,12.0,0.027,0.8
+GOTERM_BP_DIRECT,negative regulation of insulin receptor signaling pathway,3.0,0.028,0.75
+GOTERM_CC_DIRECT,Z disc,4.0,0.029,0.8
+KEGG_PATHWAY,Choline metabolism in cancer,4.0,0.029,0.14
+KEGG_PATHWAY,Protein processing in endoplasmic reticulum,5.0,0.029,0.14
+GOTERM_MF_DIRECT,cytoskeleton-nuclear membrane anchor activity,2.0,0.03,0.59
+GOTERM_BP_DIRECT,protein sumoylation,3.0,0.03,0.79
+GOTERM_MF_DIRECT,protein domain specific binding,5.0,0.031,0.59
+GOTERM_BP_DIRECT,canonical NF-kappaB signal transduction,3.0,0.031,0.79
+KEGG_PATHWAY,Chagas disease,4.0,0.032,0.15
+GOTERM_MF_DIRECT,histone deacetylase binding,4.0,0.032,0.59
+GOTERM_MF_DIRECT,double-stranded DNA binding,4.0,0.033,0.59
+KEGG_PATHWAY,Mitophagy - animal,4.0,0.033,0.15
+KEGG_PATHWAY,Parkinson disease,6.0,0.034,0.15
+GOTERM_BP_DIRECT,cellular response to amino acid starvation,3.0,0.034,0.82
+GOTERM_BP_DIRECT,response to iron(II) ion,2.0,0.035,0.82
+GOTERM_BP_DIRECT,glandular epithelial cell maturation,2.0,0.035,0.82
+GOTERM_BP_DIRECT,proteasome-mediated ubiquitin-dependent protein catabolic process,6.0,0.036,0.82
+GOTERM_BP_DIRECT,regulation of macroautophagy,3.0,0.037,0.83
+KEGG_PATHWAY,Th17 cell differentiation,4.0,0.037,0.15
+KEGG_PATHWAY,Insulin resistance,4.0,0.037,0.15
+KEGG_PATHWAY,Toll-like receptor signaling pathway,4.0,0.037,0.15
+GOTERM_BP_DIRECT,tumor necrosis factor-mediated signaling pathway,3.0,0.038,0.84
+KEGG_PATHWAY,Type II diabetes mellitus,3.0,0.04,0.16
+GOTERM_CC_DIRECT,axon cytoplasm,3.0,0.041,0.96
+KEGG_PATHWAY,Pathways of neurodegeneration - multiple diseases,8.0,0.041,0.16
+GOTERM_BP_DIRECT,regulation of cell cycle,5.0,0.042,0.91
+GOTERM_BP_DIRECT,cellular response to nutrient,2.0,0.045,0.94
+GOTERM_BP_DIRECT,protein desumoylation,2.0,0.045,0.94
+KEGG_PATHWAY,Pathogenic Escherichia coli infection,5.0,0.045,0.17
+KEGG_PATHWAY,Alzheimer disease,7.0,0.045,0.17
+GOTERM_MF_DIRECT,sequence-specific DNA binding,7.0,0.047,0.75
+KEGG_PATHWAY,Proteoglycans in cancer,5.0,0.048,0.18
+KEGG_PATHWAY,AMPK signaling pathway,4.0,0.049,0.18
+GOTERM_MF_DIRECT,kinase activity,5.0,0.049,0.75
+GOTERM_BP_DIRECT,negative regulation of transcription by RNA polymerase II,11.0,0.05,0.96
+GOTERM_BP_DIRECT,regulation of apoptotic signaling pathway,2.0,0.05,0.96
+GOTERM_BP_DIRECT,intracellular oxygen homeostasis,2.0,0.05,0.96
+GOTERM_BP_DIRECT,CD40 signaling pathway,2.0,0.05,0.96
+GOTERM_CC_DIRECT,CD40 receptor complex,2.0,0.051,0.96
+GOTERM_CC_DIRECT,meiotic nuclear membrane microtubule tethering complex,2.0,0.051,0.96
+GOTERM_MF_DIRECT,p53 binding,3.0,0.052,0.75
+GOTERM_MF_DIRECT,ubiquitin protein ligase activity,6.0,0.052,0.75
+GOTERM_CC_DIRECT,"chromosome, telomeric region",4.0,0.054,0.96
+GOTERM_BP_DIRECT,"protein localization to chromosome, telomeric region",2.0,0.055,1.0
+GOTERM_BP_DIRECT,autophagosome assembly,3.0,0.055,1.0
+GOTERM_CC_DIRECT,cytoskeleton,9.0,0.056,0.96
+GOTERM_MF_DIRECT,microtubule binding,5.0,0.056,0.75
+KEGG_PATHWAY,Chemical carcinogenesis - receptor activation,5.0,0.058,0.21
+GOTERM_BP_DIRECT,regulation of autophagy,3.0,0.059,1.0
+GOTERM_MF_DIRECT,MDM2/MDM4 family protein binding,2.0,0.059,0.75
+GOTERM_BP_DIRECT,cellular response to nitrogen starvation,2.0,0.06,1.0
+KEGG_PATHWAY,FoxO signaling pathway,4.0,0.06,0.21
+GOTERM_CC_DIRECT,pore complex,2.0,0.06,0.97
+GOTERM_MF_DIRECT,enzyme binding,6.0,0.061,0.75
+GOTERM_BP_DIRECT,response to nutrient levels,3.0,0.062,1.0
+GOTERM_MF_DIRECT,cis-regulatory region sequence-specific DNA binding,3.0,0.062,0.75
+KEGG_PATHWAY,Apoptosis,4.0,0.064,0.22
+GOTERM_BP_DIRECT,positive regulation of cell migration,5.0,0.065,1.0
+KEGG_PATHWAY,Yersinia infection,4.0,0.065,0.22
+KEGG_PATHWAY,Apelin signaling pathway,4.0,0.068,0.23
+GOTERM_BP_DIRECT,positive regulation of translation,3.0,0.069,1.0
+GOTERM_BP_DIRECT,phosphatidylinositol 3-kinase/protein kinase B signal transduction,3.0,0.069,1.0
+GOTERM_BP_DIRECT,positive regulation of leukocyte adhesion to vascular endothelial cell,2.0,0.069,1.0
+KEGG_PATHWAY,Osteoclast differentiation,4.0,0.07,0.23
+KEGG_PATHWAY,Fluid shear stress and atherosclerosis,4.0,0.07,0.23
+GOTERM_CC_DIRECT,midbody,4.0,0.07,1.0
+KEGG_PATHWAY,Alcoholic liver disease,4.0,0.072,0.23
+KEGG_PATHWAY,Spinocerebellar ataxia,4.0,0.072,0.23
+GOTERM_BP_DIRECT,cellular response to lipopolysaccharide,4.0,0.073,1.0
+GOTERM_BP_DIRECT,G1/S transition of mitotic cell cycle,3.0,0.073,1.0
+GOTERM_BP_DIRECT,autophagy,4.0,0.074,1.0
+GOTERM_MF_DIRECT,protein-macromolecule adaptor activity,5.0,0.075,0.84
+GOTERM_MF_DIRECT,RNA polymerase II-specific DNA-binding transcription factor binding,4.0,0.077,0.84
+KEGG_PATHWAY,Breast cancer,4.0,0.077,0.24
+GOTERM_MF_DIRECT,cysteine-type endopeptidase inhibitor activity involved in apoptotic process,2.0,0.078,0.84
+GOTERM_BP_DIRECT,positive regulation of B cell differentiation,2.0,0.079,1.0
+GOTERM_BP_DIRECT,axonal transport of mitochondrion,2.0,0.079,1.0
+GOTERM_BP_DIRECT,positive regulation of signal transduction by p53 class mediator,2.0,0.079,1.0
+KEGG_PATHWAY,Adipocytokine signaling pathway,3.0,0.08,0.24
+KEGG_PATHWAY,Renal cell carcinoma,3.0,0.08,0.24
+KEGG_PATHWAY,Epithelial cell signaling in Helicobacter pylori infection,3.0,0.082,0.24
+GOTERM_BP_DIRECT,response to lead ion,2.0,0.083,1.0
+GOTERM_BP_DIRECT,digestive tract morphogenesis,2.0,0.083,1.0
+KEGG_PATHWAY,Non-small cell lung cancer,3.0,0.086,0.25
+GOTERM_MF_DIRECT,DNA-binding transcription factor activity,8.0,0.088,0.85
+GOTERM_BP_DIRECT,fatty acid homeostasis,2.0,0.088,1.0
+GOTERM_BP_DIRECT,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,2.0,0.088,1.0
+GOTERM_BP_DIRECT,p38MAPK cascade,2.0,0.088,1.0
+GOTERM_MF_DIRECT,transcription cis-regulatory region binding,5.0,0.089,0.85
+GOTERM_BP_DIRECT,positive regulation of apoptotic process,5.0,0.089,1.0
+GOTERM_CC_DIRECT,microtubule,5.0,0.09,1.0
+KEGG_PATHWAY,Platinum drug resistance,3.0,0.09,0.26
+GOTERM_BP_DIRECT,regulation of gene expression,5.0,0.091,1.0
+GOTERM_MF_DIRECT,phosphatidylinositol 3-kinase binding,2.0,0.092,0.85
+KEGG_PATHWAY,Chronic myeloid leukemia,3.0,0.094,0.26
+KEGG_PATHWAY,Pertussis,3.0,0.096,0.27
+GOTERM_BP_DIRECT,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,2.0,0.097,1.0
+GOTERM_BP_DIRECT,positive regulation of ERAD pathway,2.0,0.097,1.0
+GOTERM_BP_DIRECT,cytoplasmic pattern recognition receptor signaling pathway,2.0,0.097,1.0
+GOTERM_BP_DIRECT,protein modification by small protein conjugation,2.0,0.097,1.0
+GOTERM_BP_DIRECT,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,4.0,0.098,1.0
+GOTERM_BP_DIRECT,positive regulation of interleukin-6 production,3.0,0.099,1.0

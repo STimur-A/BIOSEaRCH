@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "BIOSEaRCH — candidate-gene discovery for ischemic stroke via PPI-network analysis and machine learning"
+authors:
+  - family-names: "Kulakovskiy"
+    given-names: "Vyacheslav"
+    # Кулаковский Вячеслав
+date-released: 2026-07-22
+version: "0.1.0"
+license: MIT
+url: "https://github.com/STimur-A/BIOSEaRCH"
+keywords:
+  - bioinformatics
+  - protein-protein interaction network
+  - candidate gene prioritization
+  - ischemic stroke
+  - node2vec
+  - machine learning
+  - DIAMOnD
+  - functional annotation
+abstract: >-
+  A reproducible pipeline that searches for candidate genes associated with
+  multifactorial diseases (worked example: ischemic stroke) by analysing a
+  human protein-protein interaction network. It combines direct network
+  analysis (guilt-by-association ranking with a permutation significance test,
+  comparison against the DIAMOnD disease-module algorithm, and DAVID functional
+  annotation) with machine learning on node2vec embeddings (logistic
+  regression, SVM, decision tree and LightGBM classifiers, cross-model
+  consensus, and ROC-AUC evaluation across embedding dimensions). Developed for
+  the "Bolshie Vyzovy 2026" programme with the scientific support of the
+  NRC "Kurchatov Institute".
