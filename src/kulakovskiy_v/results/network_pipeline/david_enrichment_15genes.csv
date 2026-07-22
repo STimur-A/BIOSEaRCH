@@ -1,0 +1,112 @@
+Category,Term,Count,P-Value,Benjamini
+KEGG_PATHWAY,Hepatitis C,5.0,3.3e-05,0.0036
+KEGG_PATHWAY,Hepatitis B,5.0,3.9e-05,0.0036
+KEGG_PATHWAY,Coronavirus disease - COVID-19,5.0,0.00017,0.0063
+KEGG_PATHWAY,PD-L1 expression and PD-1 checkpoint pathway in cancer,4.0,0.00018,0.0063
+KEGG_PATHWAY,Th1 and Th2 cell differentiation,4.0,0.00019,0.0063
+KEGG_PATHWAY,AGE-RAGE signaling pathway in diabetic complications,4.0,0.00025,0.0063
+KEGG_PATHWAY,C-type lectin receptor signaling pathway,4.0,0.00028,0.0063
+KEGG_PATHWAY,Th17 cell differentiation,4.0,0.00031,0.0063
+KEGG_PATHWAY,Toll-like receptor signaling pathway,4.0,0.00031,0.0063
+GOTERM_MF_DIRECT,protein kinase binding,5.0,0.00034,0.031
+KEGG_PATHWAY,Natural killer cell mediated cytotoxicity,4.0,0.00037,0.0066
+KEGG_PATHWAY,"Growth hormone synthesis, secretion and action",4.0,0.00043,0.0066
+KEGG_PATHWAY,T cell receptor signaling pathway,4.0,0.00043,0.0066
+GOTERM_MF_DIRECT,phosphotyrosine residue binding,3.0,0.00056,0.031
+KEGG_PATHWAY,Human papillomavirus infection,5.0,0.00062,0.0081
+KEGG_PATHWAY,Yersinia infection,4.0,0.00062,0.0081
+KEGG_PATHWAY,Osteoclast differentiation,4.0,0.00068,0.0083
+GOTERM_BP_DIRECT,symbiont entry into host cell,3.0,0.00092,0.24
+GOTERM_BP_DIRECT,positive regulation of transcription by RNA polymerase II,6.0,0.00098,0.24
+GOTERM_MF_DIRECT,identical protein binding,7.0,0.0012,0.044
+KEGG_PATHWAY,Influenza A,4.0,0.0012,0.014
+KEGG_PATHWAY,NOD-like receptor signaling pathway,4.0,0.0015,0.016
+GOTERM_BP_DIRECT,DNA damage response,4.0,0.0015,0.25
+GOTERM_MF_DIRECT,promoter-specific chromatin binding,3.0,0.0016,0.046
+KEGG_PATHWAY,Kaposi sarcoma-associated herpesvirus infection,4.0,0.0017,0.018
+KEGG_PATHWAY,Proteoglycans in cancer,4.0,0.0019,0.019
+KEGG_PATHWAY,Lipid and atherosclerosis,4.0,0.0023,0.021
+KEGG_PATHWAY,Human T-cell leukemia virus 1 infection,4.0,0.0025,0.022
+GOTERM_BP_DIRECT,T cell receptor signaling pathway,3.0,0.0032,0.39
+KEGG_PATHWAY,Fc epsilon RI signaling pathway,3.0,0.0034,0.028
+KEGG_PATHWAY,Leishmaniasis,3.0,0.0043,0.034
+GOTERM_BP_DIRECT,intracellular signal transduction,4.0,0.0044,0.39
+GOTERM_BP_DIRECT,negative regulation of transcription by RNA polymerase II,5.0,0.0048,0.39
+KEGG_PATHWAY,ErbB signaling pathway,3.0,0.0052,0.039
+KEGG_PATHWAY,IgSF CAM signaling,4.0,0.0057,0.042
+GOTERM_MF_DIRECT,protein kinase activity,4.0,0.0058,0.13
+KEGG_PATHWAY,IL-17 signaling pathway,3.0,0.0061,0.043
+GOTERM_BP_DIRECT,regulation of cell population proliferation,3.0,0.0067,0.46
+KEGG_PATHWAY,NF-kappa B signaling pathway,3.0,0.0076,0.052
+GOTERM_BP_DIRECT,response to interferon-beta,2.0,0.0081,0.48
+KEGG_PATHWAY,Toxoplasmosis,3.0,0.0086,0.056
+GOTERM_MF_DIRECT,RNA polymerase II CTD heptapeptide repeat kinase activity,2.0,0.0087,0.16
+GOTERM_BP_DIRECT,positive regulation of heterotypic cell-cell adhesion,2.0,0.0088,0.48
+KEGG_PATHWAY,TNF signaling pathway,3.0,0.0097,0.061
+KEGG_PATHWAY,Thyroid hormone signaling pathway,3.0,0.01,0.062
+GOTERM_MF_DIRECT,protein binding,15.0,0.01,0.17
+GOTERM_BP_DIRECT,positive regulation of neuroinflammatory response,2.0,0.011,0.53
+GOTERM_BP_DIRECT,response to xenobiotic stimulus,3.0,0.013,0.55
+GOTERM_BP_DIRECT,positive regulation of T cell receptor signaling pathway,2.0,0.013,0.55
+KEGG_PATHWAY,Herpes simplex virus 1 infection,3.0,0.021,0.12
+GOTERM_MF_DIRECT,ATP binding,5.0,0.021,0.26
+KEGG_PATHWAY,Tuberculosis,3.0,0.022,0.12
+GOTERM_MF_DIRECT,cadherin binding,3.0,0.022,0.26
+GOTERM_BP_DIRECT,leukocyte migration,2.0,0.023,0.79
+GOTERM_MF_DIRECT,tumor necrosis factor receptor binding,2.0,0.023,0.26
+KEGG_PATHWAY,Chemokine signaling pathway,3.0,0.024,0.13
+GOTERM_BP_DIRECT,negative regulation of endothelial cell proliferation,2.0,0.025,0.79
+KEGG_PATHWAY,Pathogenic Escherichia coli infection,3.0,0.026,0.14
+KEGG_PATHWAY,Epstein-Barr virus infection,3.0,0.027,0.14
+KEGG_PATHWAY,Pathways in cancer,4.0,0.027,0.14
+GOTERM_BP_DIRECT,lipopolysaccharide-mediated signaling pathway,2.0,0.029,0.79
+GOTERM_BP_DIRECT,positive regulation of nitric oxide biosynthetic process,2.0,0.029,0.79
+KEGG_PATHWAY,Human immunodeficiency virus 1 infection,3.0,0.029,0.15
+KEGG_PATHWAY,Chemical carcinogenesis - receptor activation,3.0,0.03,0.15
+GOTERM_BP_DIRECT,release of sequestered calcium ion into cytosol,2.0,0.031,0.79
+GOTERM_BP_DIRECT,type I interferon-mediated signaling pathway,2.0,0.033,0.79
+KEGG_PATHWAY,Human cytomegalovirus infection,3.0,0.033,0.15
+GOTERM_MF_DIRECT,RNA polymerase II transcription regulatory region sequence-specific DNA binding,3.0,0.033,0.33
+GOTERM_BP_DIRECT,mRNA stabilization,2.0,0.033,0.79
+GOTERM_BP_DIRECT,positive regulation of smooth muscle cell proliferation,2.0,0.034,0.79
+GOTERM_BP_DIRECT,response to activity,2.0,0.034,0.79
+GOTERM_MF_DIRECT,protein serine/threonine kinase activity,3.0,0.035,0.33
+GOTERM_BP_DIRECT,intrinsic apoptotic signaling pathway in response to DNA damage,2.0,0.039,0.79
+GOTERM_BP_DIRECT,B cell receptor signaling pathway,2.0,0.04,0.79
+GOTERM_BP_DIRECT,tumor necrosis factor-mediated signaling pathway,2.0,0.04,0.79
+KEGG_PATHWAY,Shigellosis,3.0,0.04,0.18
+GOTERM_MF_DIRECT,transcription coactivator binding,2.0,0.041,0.33
+GOTERM_MF_DIRECT,DNA binding,5.0,0.042,0.33
+GOTERM_BP_DIRECT,JNK cascade,2.0,0.042,0.79
+GOTERM_BP_DIRECT,positive regulation of gene expression,3.0,0.044,0.79
+GOTERM_BP_DIRECT,response to mechanical stimulus,2.0,0.044,0.79
+KEGG_PATHWAY,Prion disease,3.0,0.047,0.21
+GOTERM_BP_DIRECT,epidermal growth factor receptor signaling pathway,2.0,0.048,0.8
+GOTERM_BP_DIRECT,protein autoubiquitination,2.0,0.048,0.8
+GOTERM_BP_DIRECT,cellular response to type II interferon,2.0,0.053,0.84
+GOTERM_BP_DIRECT,cell surface receptor signaling pathway via JAK-STAT,2.0,0.054,0.84
+KEGG_PATHWAY,MAPK signaling pathway,3.0,0.055,0.24
+GOTERM_BP_DIRECT,immune response,3.0,0.057,0.87
+KEGG_PATHWAY,Type II diabetes mellitus,2.0,0.059,0.25
+GOTERM_MF_DIRECT,virus receptor activity,2.0,0.06,0.45
+GOTERM_BP_DIRECT,cellular response to virus,2.0,0.062,0.9
+KEGG_PATHWAY,Malaria,2.0,0.062,0.26
+GOTERM_BP_DIRECT,signal transduction,4.0,0.063,0.9
+GOTERM_MF_DIRECT,protein phosphatase binding,2.0,0.067,0.47
+KEGG_PATHWAY,VEGF signaling pathway,2.0,0.074,0.3
+GOTERM_BP_DIRECT,negative regulation of canonical NF-kappaB signal transduction,2.0,0.075,1.0
+GOTERM_BP_DIRECT,calcium-mediated signaling,2.0,0.077,1.0
+KEGG_PATHWAY,Inflammatory bowel disease,2.0,0.081,0.32
+GOTERM_BP_DIRECT,response to ethanol,2.0,0.083,1.0
+GOTERM_BP_DIRECT,negative regulation of angiogenesis,2.0,0.087,1.0
+KEGG_PATHWAY,Prolactin signaling pathway,2.0,0.087,0.33
+KEGG_PATHWAY,RIG-I-like receptor signaling pathway,2.0,0.088,0.33
+KEGG_PATHWAY,Non-small cell lung cancer,2.0,0.09,0.33
+KEGG_PATHWAY,Glioma,2.0,0.093,0.33
+KEGG_PATHWAY,Pancreatic cancer,2.0,0.094,0.33
+KEGG_PATHWAY,Chronic myeloid leukemia,2.0,0.094,0.33
+GOTERM_BP_DIRECT,MAPK cascade,2.0,0.095,1.0
+KEGG_PATHWAY,Pertussis,2.0,0.095,0.33
+KEGG_PATHWAY,EGFR tyrosine kinase inhibitor resistance,2.0,0.098,0.33
+GOTERM_MF_DIRECT,protein homodimerization activity,3.0,0.099,0.61
+GOTERM_BP_DIRECT,cytokine-mediated signaling pathway,2.0,0.099,1.0
