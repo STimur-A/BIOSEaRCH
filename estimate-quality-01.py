@@ -1,5 +1,6 @@
 """
 Estimate the quality of the method
+Author: Gennady Khvorykh
 """
 
 import argparse
