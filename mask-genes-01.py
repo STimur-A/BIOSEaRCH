@@ -1,6 +1,7 @@
 """
 Remove a given fraction of random genes from disease genes. Save this fraction and 
 disease genes without this fraction. Repeat this selection r times. 
+Author: Gennady Khvorykh
 """
 
 import argparse
