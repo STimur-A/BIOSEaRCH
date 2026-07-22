@@ -7,3 +7,5 @@ The project Bioinformatics Search, Evaluation and Ranking of Causal Hits (BIOSEa
 * `run-svm-03.py` applies SVM (Support Vector Machine) to embedding of gene network to train the prognostic model and estimate the probablilitie of unlabeled data to belong to positive class (diasease genes).  
 
 * `mask-genes-01.py` removes a random fraction of genes from the provided list of genes for the estimation of sensitivity of the bioinformatics pipeline.
+
+* `estimate-quality-01.py` estimates the sensitivity of the method using the lists of masked genes (True Positives) and candidate genes.  
