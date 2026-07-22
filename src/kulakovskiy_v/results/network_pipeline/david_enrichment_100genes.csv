@@ -1,0 +1,657 @@
+Category,Term,Count,P-Value,Benjamini
+KEGG_PATHWAY,ErbB signaling pathway,27.0,2.9e-32,5.6000000000000005e-30
+KEGG_PATHWAY,Yersinia infection,30.0,6.3999999999999995e-31,6.199999999999999e-29
+GOTERM_MF_DIRECT,protein tyrosine kinase activity,25.0,1.1000000000000001e-30,3.2000000000000003e-28
+KEGG_PATHWAY,Fc epsilon RI signaling pathway,23.0,6.6e-28,3.6e-26
+KEGG_PATHWAY,T cell receptor signaling pathway,27.0,7.4e-28,3.6e-26
+KEGG_PATHWAY,IgSF CAM signaling,34.0,9.7e-26,3.7999999999999995e-24
+GOTERM_MF_DIRECT,phosphotyrosine residue binding,17.0,1.5e-25,2.2e-23
+GOTERM_BP_DIRECT,intracellular signal transduction,32.0,3.9e-25,5.1e-22
+GOTERM_BP_DIRECT,cell surface receptor protein tyrosine kinase signaling pathway,21.0,7.2999999999999995e-25,5.1e-22
+GOTERM_BP_DIRECT,T cell receptor signaling pathway,21.0,1.2e-24,5.700000000000001e-22
+KEGG_PATHWAY,JAK-STAT signaling pathway,27.0,4.899999999999999e-24,1.6000000000000002e-22
+KEGG_PATHWAY,Bacterial invasion of epithelial cells,21.0,3e-23,8.4e-22
+KEGG_PATHWAY,Pathways in cancer,39.0,7.1e-23,1.7e-21
+GOTERM_CC_DIRECT,plasma membrane,77.0,1.7000000000000002e-22,3.7e-20
+GOTERM_MF_DIRECT,non-membrane spanning protein tyrosine kinase activity,15.0,1.6e-21,1.6e-19
+KEGG_PATHWAY,EGFR tyrosine kinase inhibitor resistance,20.0,2e-21,4.4e-20
+GOTERM_BP_DIRECT,cytokine-mediated signaling pathway,20.0,2.1e-21,7.5e-19
+KEGG_PATHWAY,Natural killer cell mediated cytotoxicity,22.0,6e-21,1.2e-19
+KEGG_PATHWAY,PI3K-Akt signaling pathway,32.0,8.5e-21,1.5e-19
+GOTERM_BP_DIRECT,epidermal growth factor receptor signaling pathway,16.0,1.2e-20,3.5e-18
+KEGG_PATHWAY,Focal adhesion,26.0,1.4e-20,2.2e-19
+GOTERM_CC_DIRECT,cytosol,74.0,2.1e-20,2.4e-18
+KEGG_PATHWAY,Ras signaling pathway,27.0,4.5e-20,6.8e-19
+GOTERM_BP_DIRECT,signal transduction,40.0,9.6e-20,2.2e-17
+KEGG_PATHWAY,Fc gamma R-mediated phagocytosis,20.0,1.3e-19,1.8e-18
+KEGG_PATHWAY,Chronic myeloid leukemia,18.0,1.2e-18,1.6e-17
+KEGG_PATHWAY,Phospholipase D signaling pathway,22.0,1.4e-18,1.7e-17
+GOTERM_BP_DIRECT,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,20.0,1.5e-18,3e-16
+GOTERM_BP_DIRECT,cell surface receptor signaling pathway via JAK-STAT,15.0,4.3e-18,7.5e-16
+KEGG_PATHWAY,Proteoglycans in cancer,24.0,4.4e-18,5e-17
+GOTERM_MF_DIRECT,protein kinase activity,26.0,8.5e-18,6.1e-16
+KEGG_PATHWAY,Osteoclast differentiation,21.0,1e-17,1e-16
+KEGG_PATHWAY,"Growth hormone synthesis, secretion and action",20.0,1e-17,1e-16
+KEGG_PATHWAY,Chemokine signaling pathway,23.0,2e-17,2e-16
+KEGG_PATHWAY,Regulation of actin cytoskeleton,24.0,7.8e-17,7.3e-16
+KEGG_PATHWAY,Neurotrophin signaling pathway,19.0,1.6e-16,1.4e-15
+KEGG_PATHWAY,PD-L1 expression and PD-1 checkpoint pathway in cancer,17.0,5.3e-16,4.5e-15
+GOTERM_CC_DIRECT,cell-cell junction,17.0,6e-15,4.5e-13
+KEGG_PATHWAY,Prolactin signaling pathway,15.0,9.1e-15,7.4e-14
+GOTERM_BP_DIRECT,B cell receptor signaling pathway,12.0,9.8e-15,1.5e-12
+KEGG_PATHWAY,Non-small cell lung cancer,15.0,1.4e-14,1.1e-13
+KEGG_PATHWAY,Th1 and Th2 cell differentiation,16.0,2.2e-14,1.7e-13
+GOTERM_CC_DIRECT,focal adhesion,21.0,3.3e-14,1.8e-12
+KEGG_PATHWAY,Leukocyte transendothelial migration,17.0,3.6e-14,2.6e-13
+GOTERM_MF_DIRECT,ATP binding,35.0,5.8e-14,3.3e-12
+GOTERM_BP_DIRECT,cell migration,18.0,7.3e-14,1e-11
+KEGG_PATHWAY,Shigellosis,22.0,7.9e-14,5.5e-13
+KEGG_PATHWAY,Acute myeloid leukemia,14.0,1.3e-13,9e-13
+GOTERM_BP_DIRECT,peptidyl-tyrosine phosphorylation,10.0,1.4e-13,1.7e-11
+KEGG_PATHWAY,Renal cell carcinoma,14.0,2e-13,1.3e-12
+KEGG_PATHWAY,B cell receptor signaling pathway,15.0,3.4e-13,2.2e-12
+KEGG_PATHWAY,Rap1 signaling pathway,20.0,3.6e-13,2.2e-12
+GOTERM_MF_DIRECT,protein binding,98.0,4.9e-13,2.4e-11
+KEGG_PATHWAY,Hematopoietic cell lineage,15.0,1.3e-12,7.7e-12
+KEGG_PATHWAY,Pathogenic Escherichia coli infection,19.0,1.5e-12,8.6e-12
+GOTERM_BP_DIRECT,positive regulation of leukocyte proliferation,7.0,3.2e-12,3.7e-10
+KEGG_PATHWAY,Integrin signaling,17.0,3.2e-12,1.8e-11
+KEGG_PATHWAY,Axon guidance,18.0,4.4e-12,2.3e-11
+KEGG_PATHWAY,Th17 cell differentiation,15.0,4.4e-12,2.3e-11
+GOTERM_CC_DIRECT,membrane raft,15.0,5.3e-12,2.3e-10
+KEGG_PATHWAY,Measles,16.0,6.8e-12,3.5e-11
+KEGG_PATHWAY,Hepatitis B,17.0,7.8e-12,3.9e-11
+KEGG_PATHWAY,Insulin signaling pathway,16.0,8.5e-12,4.1e-11
+GOTERM_BP_DIRECT,B cell differentiation,11.0,1.1e-11,1.1e-09
+GOTERM_BP_DIRECT,cell surface receptor signaling pathway,18.0,1.3e-11,1.3e-09
+KEGG_PATHWAY,Glioma,13.0,1.3e-11,6.4e-11
+GOTERM_BP_DIRECT,phosphatidylinositol 3-kinase/protein kinase B signal transduction,11.0,1.5e-11,1.4e-09
+KEGG_PATHWAY,AGE-RAGE signaling pathway in diabetic complications,14.0,2.6e-11,1.2e-10
+GOTERM_MF_DIRECT,SH2 domain binding,9.0,3.4e-11,1.4e-09
+GOTERM_MF_DIRECT,protein kinase binding,19.0,4.5e-11,1.6e-09
+GOTERM_MF_DIRECT,receptor tyrosine kinase binding,10.0,5.1e-11,1.6e-09
+GOTERM_CC_DIRECT,cytoplasm,66.0,1.1e-10,4.2e-09
+GOTERM_BP_DIRECT,cellular response to epidermal growth factor stimulus,9.0,1.3e-10,1.2e-08
+GOTERM_CC_DIRECT,cytoskeleton,23.0,1.5e-10,4.7e-09
+GOTERM_BP_DIRECT,interleukin-5-mediated signaling pathway,6.0,1.7e-10,1.3e-08
+GOTERM_BP_DIRECT,T cell activation,10.0,1.8e-10,1.3e-08
+GOTERM_BP_DIRECT,ephrin receptor signaling pathway,9.0,1.9e-10,1.3e-08
+GOTERM_BP_DIRECT,positive regulation of cell population proliferation,19.0,1.9e-10,1.3e-08
+GOTERM_MF_DIRECT,transmembrane receptor protein tyrosine kinase activity,9.0,2.8e-10,8.1e-09
+KEGG_PATHWAY,Choline metabolism in cancer,13.0,3.3e-10,1.5e-09
+KEGG_PATHWAY,Endocrine resistance,13.0,3.3e-10,1.5e-09
+GOTERM_BP_DIRECT,leukocyte migration,8.0,3.5e-10,2.3e-08
+GOTERM_BP_DIRECT,activated T cell proliferation,6.0,3.9e-10,2.5e-08
+KEGG_PATHWAY,VEGF signaling pathway,11.0,4.3e-10,1.9e-09
+GOTERM_CC_DIRECT,signaling receptor complex,13.0,6.4e-10,1.8e-08
+GOTERM_MF_DIRECT,kinase activity,14.0,1.1e-09,2.8e-08
+KEGG_PATHWAY,MAPK signaling pathway,19.0,1.3e-09,5.4e-09
+GOTERM_MF_DIRECT,phospholipase binding,7.0,1.4e-09,3.1e-08
+GOTERM_MF_DIRECT,protein phosphatase binding,10.0,1.4e-09,3.1e-08
+KEGG_PATHWAY,Hepatocellular carcinoma,15.0,1.8e-09,7.6e-09
+GOTERM_BP_DIRECT,Fc-epsilon receptor signaling pathway,7.0,1.9e-09,1.2e-07
+KEGG_PATHWAY,Epstein-Barr virus infection,16.0,2.4e-09,9.6e-09
+KEGG_PATHWAY,Central carbon metabolism in cancer,11.0,2.4e-09,9.6e-09
+GOTERM_BP_DIRECT,T cell costimulation,8.0,2.4e-09,1.4e-07
+GOTERM_MF_DIRECT,protein tyrosine kinase binding,8.0,2.7e-09,5.5e-08
+GOTERM_BP_DIRECT,positive regulation of cell adhesion,9.0,3.6e-09,2e-07
+KEGG_PATHWAY,Human immunodeficiency virus 1 infection,16.0,4.3e-09,1.7e-08
+KEGG_PATHWAY,Endocytosis,17.0,4.7e-09,1.8e-08
+GOTERM_BP_DIRECT,immune response,18.0,5.3e-09,2.8e-07
+KEGG_PATHWAY,Platelet activation,13.0,5.6e-09,2.1e-08
+GOTERM_MF_DIRECT,ephrin receptor binding,7.0,6.3e-09,1.2e-07
+KEGG_PATHWAY,Endometrial cancer,10.0,7.6e-09,2.8e-08
+KEGG_PATHWAY,Relaxin signaling pathway,13.0,7.9e-09,2.9e-08
+GOTERM_BP_DIRECT,integrin-mediated signaling pathway,10.0,9.3e-09,4.8e-07
+GOTERM_MF_DIRECT,SH3 domain binding,10.0,9.3e-09,1.7e-07
+KEGG_PATHWAY,Human cytomegalovirus infection,16.0,9.7e-09,3.4e-08
+GOTERM_BP_DIRECT,erythropoietin-mediated signaling pathway,5.0,2.2e-08,1.1e-06
+GOTERM_MF_DIRECT,enzyme binding,15.0,2.3e-08,4e-07
+KEGG_PATHWAY,MicroRNAs in cancer,18.0,2.8e-08,9.6e-08
+GOTERM_BP_DIRECT,regulation of cell shape,10.0,3.2e-08,1.6e-06
+KEGG_PATHWAY,Adherens junction,11.0,3.5e-08,1.2e-07
+GOTERM_BP_DIRECT,regulation of cell population proliferation,11.0,3.5e-08,1.6e-06
+GOTERM_MF_DIRECT,signaling adaptor activity,9.0,3.5e-08,5.7e-07
+GOTERM_CC_DIRECT,phosphatidylinositol 3-kinase complex,5.0,3.7e-08,9.1e-07
+GOTERM_BP_DIRECT,actin cytoskeleton organization,12.0,3.9e-08,1.7e-06
+KEGG_PATHWAY,Gastric cancer,13.0,4e-08,1.3e-07
+GOTERM_BP_DIRECT,interleukin-2-mediated signaling pathway,5.0,4.4e-08,1.9e-06
+GOTERM_BP_DIRECT,enzyme-linked receptor protein signaling pathway,6.0,6e-08,2.5e-06
+GOTERM_BP_DIRECT,positive regulation of T cell proliferation,8.0,6.1e-08,2.5e-06
+KEGG_PATHWAY,Human T-cell leukemia virus 1 infection,15.0,6.4e-08,2.1e-07
+GOTERM_CC_DIRECT,"phosphatidylinositol 3-kinase complex, class IA",5.0,6.6e-08,1.5e-06
+KEGG_PATHWAY,Chemical carcinogenesis - reactive oxygen species,15.0,7.5e-08,2.4e-07
+KEGG_PATHWAY,Pancreatic cancer,10.0,8.4e-08,2.7e-07
+GOTERM_BP_DIRECT,protein autophosphorylation,9.0,9.3e-08,3.7e-06
+KEGG_PATHWAY,Kaposi sarcoma-associated herpesvirus infection,14.0,9.8e-08,3.1e-07
+GOTERM_BP_DIRECT,Fc-gamma receptor signaling pathway involved in phagocytosis,6.0,9.8e-08,3.8e-06
+GOTERM_BP_DIRECT,negative regulation of apoptotic process,16.0,1e-07,4e-06
+KEGG_PATHWAY,C-type lectin receptor signaling pathway,11.0,1.1e-07,3.5e-07
+GOTERM_BP_DIRECT,T cell differentiation,7.0,1.2e-07,4.5e-06
+KEGG_PATHWAY,Prostate cancer,11.0,1.2e-07,3.8e-07
+KEGG_PATHWAY,Estrogen signaling pathway,12.0,1.7e-07,5.1e-07
+GOTERM_MF_DIRECT,phospholipase activator activity,5.0,2e-07,3e-06
+GOTERM_BP_DIRECT,growth hormone receptor signaling pathway via JAK-STAT,5.0,2.1e-07,7.4e-06
+GOTERM_BP_DIRECT,positive regulation of Rac protein signal transduction,6.0,2.3e-07,8.1e-06
+GOTERM_BP_DIRECT,positive regulation of MAPK cascade,11.0,2.5e-07,8.5e-06
+KEGG_PATHWAY,Lipid and atherosclerosis,14.0,3e-07,9e-07
+GOTERM_BP_DIRECT,ERBB signaling pathway,5.0,3.1e-07,1e-05
+GOTERM_BP_DIRECT,positive regulation of cell migration,12.0,3.2e-07,1.1e-05
+KEGG_PATHWAY,Breast cancer,12.0,3.2e-07,9.5e-07
+GOTERM_CC_DIRECT,actin cytoskeleton,12.0,3.8e-07,7.8e-06
+GOTERM_MF_DIRECT,insulin receptor substrate binding,5.0,4.3e-07,6.2e-06
+KEGG_PATHWAY,Thyroid hormone signaling pathway,11.0,4.7e-07,1.3e-06
+GOTERM_MF_DIRECT,actin binding,13.0,5e-07,6.9e-06
+KEGG_PATHWAY,Hepatitis C,12.0,5.5e-07,1.6e-06
+GOTERM_CC_DIRECT,lamellipodium,10.0,5.6e-07,1e-05
+KEGG_PATHWAY,Sphingolipid signaling pathway,11.0,5.8e-07,1.6e-06
+GOTERM_CC_DIRECT,perinuclear region of cytoplasm,17.0,6.3e-07,1.1e-05
+GOTERM_MF_DIRECT,signaling receptor complex adaptor activity,6.0,6.4e-07,8.4e-06
+GOTERM_BP_DIRECT,regulation of cell adhesion,7.0,9e-07,2.8e-05
+GOTERM_BP_DIRECT,actin filament polymerization,6.0,9.1e-07,2.8e-05
+KEGG_PATHWAY,Coronavirus disease - COVID-19,14.0,9.2e-07,2.5e-06
+GOTERM_BP_DIRECT,platelet activation,7.0,1.1e-06,3.3e-05
+KEGG_PATHWAY,Viral carcinogenesis,13.0,1.2e-06,3.3e-06
+GOTERM_BP_DIRECT,positive regulation of ERK1 and ERK2 cascade,10.0,1.3e-06,3.9e-05
+KEGG_PATHWAY,Tight junction,12.0,1.3e-06,3.5e-06
+GOTERM_MF_DIRECT,protein tyrosine kinase activator activity,5.0,1.4e-06,1.8e-05
+GOTERM_BP_DIRECT,cellular response to transforming growth factor beta stimulus,7.0,1.5e-06,4.5e-05
+KEGG_PATHWAY,Toll-like receptor signaling pathway,10.0,1.7e-06,4.5e-06
+GOTERM_BP_DIRECT,regulation of developmental process,6.0,2e-06,5.8e-05
+GOTERM_BP_DIRECT,insulin receptor signaling pathway,7.0,2.1e-06,6e-05
+KEGG_PATHWAY,Chemical carcinogenesis - receptor activation,13.0,2.2e-06,5.7e-06
+KEGG_PATHWAY,Herpes simplex virus 1 infection,12.0,2.3e-06,5.9e-06
+GOTERM_BP_DIRECT,negative regulation of T cell receptor signaling pathway,6.0,2.6e-06,7.1e-05
+KEGG_PATHWAY,Colorectal cancer,9.0,2.9e-06,7.4e-06
+GOTERM_BP_DIRECT,Ras protein signal transduction,7.0,3.1e-06,8.5e-05
+GOTERM_BP_DIRECT,positive regulation of receptor signaling pathway via JAK-STAT,6.0,4.1e-06,0.00011
+GOTERM_CC_DIRECT,external side of plasma membrane,12.0,4.1e-06,6.6e-05
+GOTERM_BP_DIRECT,mast cell proliferation,4.0,4.5e-06,0.00011
+GOTERM_BP_DIRECT,positive regulation of mast cell proliferation,4.0,4.5e-06,0.00011
+GOTERM_BP_DIRECT,interleukin-3-mediated signaling pathway,4.0,4.5e-06,0.00011
+GOTERM_BP_DIRECT,protein phosphorylation,10.0,4.6e-06,0.00011
+GOTERM_BP_DIRECT,stimulatory C-type lectin receptor signaling pathway,5.0,5.3e-06,0.00013
+GOTERM_BP_DIRECT,phosphatidylinositol-mediated signaling,5.0,6.3e-06,0.00015
+GOTERM_BP_DIRECT,signal complex assembly,4.0,7.1e-06,0.00017
+GOTERM_MF_DIRECT,cytokine receptor activity,6.0,7.2e-06,8.6e-05
+KEGG_PATHWAY,Phosphatidylinositol signaling system,9.0,7.2e-06,1.8e-05
+GOTERM_BP_DIRECT,Arp2/3 complex-mediated actin nucleation,5.0,7.5e-06,0.00017
+KEGG_PATHWAY,Human papillomavirus infection,15.0,7.5e-06,1.9e-05
+KEGG_PATHWAY,Epithelial cell signaling in Helicobacter pylori infection,8.0,7.9e-06,1.9e-05
+GOTERM_CC_DIRECT,glutamatergic synapse,14.0,9.4e-06,0.00014
+KEGG_PATHWAY,Melanoma,8.0,9.5e-06,2.3e-05
+GOTERM_BP_DIRECT,adaptive immune response,13.0,9.8e-06,0.00022
+KEGG_PATHWAY,Amoebiasis,9.0,1e-05,2.4e-05
+KEGG_PATHWAY,Chagas disease,9.0,1e-05,2.4e-05
+GOTERM_CC_DIRECT,actin filament,7.0,1.1e-05,0.00016
+KEGG_PATHWAY,NF-kappa B signaling pathway,9.0,1.2e-05,2.8e-05
+GOTERM_MF_DIRECT,identical protein binding,25.0,1.3e-05,0.00015
+GOTERM_BP_DIRECT,mast cell degranulation,5.0,1.4e-05,0.00031
+KEGG_PATHWAY,Fluid shear stress and atherosclerosis,10.0,1.5e-05,3.4e-05
+GOTERM_BP_DIRECT,cellular response to platelet-derived growth factor stimulus,5.0,1.6e-05,0.00035
+KEGG_PATHWAY,HIF-1 signaling pathway,9.0,1.7e-05,3.8e-05
+GOTERM_CC_DIRECT,Arp2/3 protein complex,4.0,1.8e-05,0.00024
+GOTERM_BP_DIRECT,vascular endothelial growth factor receptor signaling pathway,5.0,1.8e-05,0.00039
+GOTERM_BP_DIRECT,positive regulation of tyrosine phosphorylation of STAT protein,5.0,1.8e-05,0.00039
+GOTERM_BP_DIRECT,insulin-like growth factor receptor signaling pathway,5.0,2.3e-05,0.00049
+GOTERM_BP_DIRECT,negative regulation of T cell activation,5.0,2.6e-05,0.00054
+GOTERM_BP_DIRECT,reelin-mediated signaling pathway,4.0,2.8e-05,0.00056
+GOTERM_CC_DIRECT,basal plasma membrane,6.0,3.1e-05,0.00038
+GOTERM_BP_DIRECT,positive regulation of mitotic cell cycle,5.0,3.3e-05,0.00067
+GOTERM_MF_DIRECT,cadherin binding,10.0,3.6e-05,0.0004
+KEGG_PATHWAY,Aldosterone-regulated sodium reabsorption,6.0,4.1e-05,9.2e-05
+GOTERM_MF_DIRECT,growth factor binding,5.0,4.5e-05,0.00048
+GOTERM_BP_DIRECT,type II interferon-mediated signaling pathway,4.0,4.5e-05,0.00089
+GOTERM_BP_DIRECT,regulation of multicellular organismal process,5.0,4.6e-05,0.00089
+KEGG_PATHWAY,Salmonella infection,12.0,4.7e-05,0.00011
+GOTERM_CC_DIRECT,extrinsic component of cytoplasmic side of plasma membrane,4.0,4.9e-05,0.00058
+GOTERM_BP_DIRECT,growth hormone receptor signaling pathway,4.0,5.6e-05,0.0011
+GOTERM_BP_DIRECT,positive regulation of transcription by RNA polymerase II,19.0,5.9e-05,0.0011
+GOTERM_CC_DIRECT,cytoplasmic side of plasma membrane,7.0,6.1e-05,0.00069
+GOTERM_BP_DIRECT,natural killer cell mediated cytotoxicity,5.0,6.2e-05,0.0012
+KEGG_PATHWAY,FoxO signaling pathway,9.0,6.7e-05,0.00015
+GOTERM_BP_DIRECT,positive regulation of natural killer cell proliferation,4.0,6.9e-05,0.0012
+GOTERM_BP_DIRECT,positive regulation of B cell differentiation,4.0,6.9e-05,0.0012
+GOTERM_BP_DIRECT,Schwann cell development,4.0,6.9e-05,0.0012
+KEGG_PATHWAY,Inflammatory mediator regulation of TRP channels,8.0,7e-05,0.00015
+KEGG_PATHWAY,Influenza A,10.0,7.2e-05,0.00015
+GOTERM_CC_DIRECT,postsynaptic density,9.0,8.2e-05,0.00087
+KEGG_PATHWAY,Apoptosis,9.0,8.2e-05,0.00017
+GOTERM_MF_DIRECT,cytokine binding,5.0,8.6e-05,0.00089
+GOTERM_BP_DIRECT,angiogenesis,9.0,9e-05,0.0016
+GOTERM_BP_DIRECT,positive regulation of intracellular signal transduction,5.0,9.7e-05,0.0017
+GOTERM_MF_DIRECT,transmembrane receptor protein tyrosine kinase adaptor activity,4.0,9.8e-05,0.00097
+GOTERM_BP_DIRECT,regulation of stress fiber assembly,4.0,0.0001,0.0017
+GOTERM_MF_DIRECT,actin filament binding,8.0,0.00011,0.0011
+GOTERM_MF_DIRECT,phosphatidylinositol 3-kinase binding,4.0,0.00012,0.0011
+KEGG_PATHWAY,Type II diabetes mellitus,6.0,0.00012,0.00024
+KEGG_PATHWAY,Platinum drug resistance,7.0,0.00012,0.00025
+GOTERM_BP_DIRECT,cell chemotaxis,6.0,0.00012,0.002
+GOTERM_BP_DIRECT,protein-containing complex assembly,7.0,0.00012,0.002
+GOTERM_BP_DIRECT,positive regulation of interleukin-2 production,5.0,0.00012,0.0021
+GOTERM_BP_DIRECT,osteoclast differentiation,5.0,0.00013,0.0022
+GOTERM_BP_DIRECT,negative regulation of natural killer cell mediated cytotoxicity,4.0,0.00014,0.0022
+GOTERM_BP_DIRECT,vascular endothelial growth factor signaling pathway,4.0,0.00014,0.0022
+GOTERM_BP_DIRECT,regulation of cell-cell adhesion,4.0,0.00014,0.0022
+GOTERM_CC_DIRECT,immunological synapse,5.0,0.00014,0.0013
+GOTERM_CC_DIRECT,granulocyte macrophage colony-stimulating factor receptor complex,3.0,0.00014,0.0013
+GOTERM_CC_DIRECT,ruffle membrane,6.0,0.00014,0.0013
+KEGG_PATHWAY,Inositol phosphate metabolism,7.0,0.00015,0.0003
+GOTERM_BP_DIRECT,mast cell migration,3.0,0.00015,0.0024
+GOTERM_BP_DIRECT,mast cell differentiation,3.0,0.00015,0.0024
+GOTERM_BP_DIRECT,granulocyte-macrophage colony-stimulating factor signaling pathway,3.0,0.00015,0.0024
+KEGG_PATHWAY,Neutrophil extracellular trap formation,10.0,0.00018,0.00036
+GOTERM_CC_DIRECT,site of double-strand break,6.0,0.00018,0.0016
+GOTERM_BP_DIRECT,substrate adhesion-dependent cell spreading,5.0,0.00018,0.0027
+GOTERM_CC_DIRECT,ruffle,6.0,0.0002,0.0017
+GOTERM_CC_DIRECT,cell surface,13.0,0.00021,0.0017
+GOTERM_BP_DIRECT,actin polymerization or depolymerization,4.0,0.00021,0.0032
+GOTERM_BP_DIRECT,regulation of actin cytoskeleton organization,6.0,0.00022,0.0033
+KEGG_PATHWAY,TNF signaling pathway,8.0,0.00022,0.00045
+GOTERM_BP_DIRECT,positive regulation of gene expression,11.0,0.00024,0.0035
+GOTERM_BP_DIRECT,tumor necrosis factor-mediated signaling pathway,5.0,0.00025,0.0037
+KEGG_PATHWAY,Cadherin signaling,14.0,0.00025,0.0005
+GOTERM_MF_DIRECT,ErbB-3 class receptor binding,3.0,0.00025,0.0023
+GOTERM_BP_DIRECT,positive regulation of protein kinase activity,4.0,0.00031,0.0045
+GOTERM_BP_DIRECT,calcium-mediated signaling,6.0,0.00034,0.0048
+GOTERM_MF_DIRECT,neurotrophin TRKA receptor binding,3.0,0.00038,0.0033
+GOTERM_CC_DIRECT,cell cortex,7.0,0.00038,0.003
+GOTERM_BP_DIRECT,positive regulation of endothelial cell migration,5.0,0.00038,0.0053
+GOTERM_BP_DIRECT,cell surface receptor signaling pathway via STAT,4.0,0.00039,0.0053
+GOTERM_BP_DIRECT,positive regulation of activated T cell proliferation,4.0,0.00039,0.0053
+GOTERM_BP_DIRECT,negative regulation of epidermal growth factor receptor signaling pathway,4.0,0.00039,0.0053
+GOTERM_CC_DIRECT,extracellular exosome,24.0,0.00039,0.003
+KEGG_PATHWAY,Small cell lung cancer,7.0,0.00039,0.00076
+KEGG_PATHWAY,Hormone signaling,10.0,0.00042,0.00082
+GOTERM_BP_DIRECT,bone resorption,4.0,0.00043,0.0058
+GOTERM_BP_DIRECT,positive regulation of lamellipodium assembly,4.0,0.00048,0.0063
+GOTERM_BP_DIRECT,negative regulation of inflammatory response to antigenic stimulus,4.0,0.00048,0.0063
+GOTERM_BP_DIRECT,neuron migration,6.0,0.00049,0.0065
+GOTERM_BP_DIRECT,cellular response to growth factor stimulus,5.0,0.00051,0.0066
+GOTERM_MF_DIRECT,"1-phosphatidylinositol-4,5-bisphosphate 3-kinase activity",3.0,0.00053,0.0043
+GOTERM_MF_DIRECT,1-phosphatidylinositol-4-phosphate 3-kinase activity,3.0,0.00053,0.0043
+GOTERM_BP_DIRECT,positive regulation of tumor necrosis factor production,6.0,0.00054,0.0071
+GOTERM_BP_DIRECT,positive regulation of release of sequestered calcium ion into cytosol,4.0,0.00058,0.0074
+GOTERM_CC_DIRECT,protein-containing complex,13.0,0.00061,0.0045
+KEGG_PATHWAY,Primary immunodeficiency,5.0,0.00061,0.0012
+GOTERM_BP_DIRECT,inflammatory response,10.0,0.00064,0.0081
+GOTERM_BP_DIRECT,platelet-derived growth factor receptor signaling pathway,4.0,0.00069,0.0086
+GOTERM_CC_DIRECT,cell projection,6.0,0.0007,0.005
+KEGG_PATHWAY,Signaling pathways regulating pluripotency of stem cells,8.0,0.00071,0.0014
+GOTERM_BP_DIRECT,positive regulation of leukocyte differentiation,3.0,0.00071,0.0086
+GOTERM_BP_DIRECT,antigen receptor-mediated signaling pathway,3.0,0.00071,0.0086
+GOTERM_BP_DIRECT,interleukin-7-mediated signaling pathway,3.0,0.00071,0.0086
+GOTERM_BP_DIRECT,gamma-delta T cell differentiation,3.0,0.00071,0.0086
+GOTERM_BP_DIRECT,interleukin-9-mediated signaling pathway,3.0,0.00071,0.0086
+GOTERM_CC_DIRECT,COP9 signalosome,4.0,0.00071,0.005
+GOTERM_BP_DIRECT,cellular response to type II interferon,5.0,0.00075,0.009
+GOTERM_MF_DIRECT,transmembrane signaling receptor activity,8.0,0.00079,0.0062
+GOTERM_MF_DIRECT,epidermal growth factor receptor binding,4.0,0.0008,0.0062
+GOTERM_BP_DIRECT,chemotaxis,6.0,0.00084,0.0099
+GOTERM_BP_DIRECT,lamellipodium assembly,4.0,0.00089,0.01
+GOTERM_MF_DIRECT,signaling receptor activator activity,3.0,0.0009,0.0068
+KEGG_PATHWAY,Insulin resistance,7.0,0.0009,0.0017
+GOTERM_BP_DIRECT,positive regulation of podosome assembly,3.0,0.00091,0.011
+GOTERM_BP_DIRECT,positive regulation of gamma-delta T cell differentiation,3.0,0.00091,0.011
+KEGG_PATHWAY,Cytokine-cytokine receptor interaction,11.0,0.00099,0.0019
+GOTERM_MF_DIRECT,integrin binding,6.0,0.001,0.0076
+GOTERM_BP_DIRECT,positive regulation of epithelial cell migration,4.0,0.001,0.012
+GOTERM_BP_DIRECT,positive regulation of erythrocyte differentiation,4.0,0.001,0.012
+KEGG_PATHWAY,Toxoplasmosis,7.0,0.001,0.0019
+GOTERM_MF_DIRECT,protein-macromolecule adaptor activity,8.0,0.0011,0.0078
+GOTERM_MF_DIRECT,1-phosphatidylinositol-3-kinase activity,3.0,0.0011,0.0078
+GOTERM_BP_DIRECT,interleukin-15-mediated signaling pathway,3.0,0.0011,0.013
+GOTERM_BP_DIRECT,cell adhesion,11.0,0.0011,0.013
+KEGG_PATHWAY,Cholinergic synapse,7.0,0.0012,0.0022
+KEGG_PATHWAY,mTOR signaling pathway,8.0,0.0012,0.0022
+GOTERM_CC_DIRECT,neuromuscular junction,5.0,0.0013,0.0085
+GOTERM_BP_DIRECT,lactation,4.0,0.0013,0.014
+GOTERM_BP_DIRECT,positive regulation of protein localization to nucleus,4.0,0.0013,0.014
+GOTERM_BP_DIRECT,positive regulation of type II interferon production,5.0,0.0013,0.014
+GOTERM_MF_DIRECT,peptide hormone receptor binding,3.0,0.0014,0.0091
+GOTERM_MF_DIRECT,growth hormone receptor binding,3.0,0.0014,0.0091
+GOTERM_BP_DIRECT,cellular response to virus,5.0,0.0014,0.014
+GOTERM_BP_DIRECT,regulation of MAPK cascade,4.0,0.0014,0.014
+GOTERM_BP_DIRECT,B cell activation,4.0,0.0014,0.014
+GOTERM_BP_DIRECT,phosphatidylinositol phosphate biosynthetic process,4.0,0.0014,0.014
+GOTERM_BP_DIRECT,gamma-delta T cell activation,3.0,0.0014,0.014
+GOTERM_BP_DIRECT,actin filament organization,6.0,0.0014,0.014
+GOTERM_BP_DIRECT,cell development,4.0,0.0015,0.015
+KEGG_PATHWAY,Carbohydrate digestion and absorption,5.0,0.0015,0.0027
+GOTERM_MF_DIRECT,signaling receptor binding,9.0,0.0015,0.01
+KEGG_PATHWAY,AMPK signaling pathway,7.0,0.0016,0.0029
+GOTERM_MF_DIRECT,T cell receptor binding,3.0,0.0016,0.01
+GOTERM_MF_DIRECT,phosphatidylinositol 3-kinase regulatory subunit binding,3.0,0.0016,0.01
+GOTERM_BP_DIRECT,negative regulation of neuron apoptotic process,6.0,0.0016,0.017
+GOTERM_BP_DIRECT,positive regulation of substrate adhesion-dependent cell spreading,4.0,0.0018,0.018
+GOTERM_BP_DIRECT,positive regulation of B cell proliferation,4.0,0.0018,0.018
+GOTERM_BP_DIRECT,platelet aggregation,4.0,0.0019,0.019
+GOTERM_BP_DIRECT,regulation of intracellular signal transduction,4.0,0.0019,0.019
+GOTERM_BP_DIRECT,cellular response to insulin stimulus,5.0,0.002,0.02
+GOTERM_BP_DIRECT,response to endoplasmic reticulum stress,5.0,0.0021,0.02
+GOTERM_BP_DIRECT,positive regulation of JNK cascade,5.0,0.0021,0.02
+GOTERM_BP_DIRECT,positive regulation of blood vessel endothelial cell migration,4.0,0.0021,0.021
+GOTERM_BP_DIRECT,positive regulation of smooth muscle cell proliferation,4.0,0.0023,0.021
+GOTERM_BP_DIRECT,positive regulation of actin filament polymerization,4.0,0.0023,0.021
+GOTERM_BP_DIRECT,regulation of actin filament organization,3.0,0.0023,0.021
+GOTERM_BP_DIRECT,positive regulation of skeletal muscle acetylcholine-gated channel clustering,3.0,0.0023,0.021
+GOTERM_BP_DIRECT,cellular response to interleukin-7,3.0,0.0023,0.021
+KEGG_PATHWAY,Longevity regulating pathway,6.0,0.0023,0.0042
+GOTERM_BP_DIRECT,response to peptide hormone,4.0,0.0024,0.022
+GOTERM_CC_DIRECT,membrane,44.0,0.0024,0.016
+GOTERM_BP_DIRECT,regulation of cell-matrix adhesion,3.0,0.0026,0.024
+GOTERM_BP_DIRECT,interleukin-6-mediated signaling pathway,3.0,0.0026,0.024
+GOTERM_BP_DIRECT,regulation of receptor signaling pathway via JAK-STAT,3.0,0.0026,0.024
+GOTERM_BP_DIRECT,regulation of vascular permeability,3.0,0.0026,0.024
+GOTERM_BP_DIRECT,cellular response to cytokine stimulus,4.0,0.0027,0.024
+OMIM_DISEASE,"Leukemia, acute myeloid, somatic",3.0,0.0029,0.4
+GOTERM_MF_DIRECT,molecular condensate scaffold activity,4.0,0.0029,0.018
+GOTERM_MF_DIRECT,nuclear glucocorticoid receptor binding,3.0,0.0029,0.018
+GOTERM_BP_DIRECT,neuron differentiation,6.0,0.0031,0.028
+KEGG_PATHWAY,Regulation of lipolysis in adipocytes,5.0,0.0032,0.0056
+GOTERM_BP_DIRECT,positive regulation of protein phosphorylation,4.0,0.0033,0.029
+GOTERM_MF_DIRECT,insulin-like growth factor receptor binding,3.0,0.0033,0.019
+GOTERM_BP_DIRECT,cellular response to peptide hormone stimulus,3.0,0.0033,0.029
+GOTERM_BP_DIRECT,negative regulation of cell-cell adhesion,3.0,0.0033,0.029
+GOTERM_BP_DIRECT,fibroblast growth factor receptor signaling pathway,4.0,0.0034,0.03
+GOTERM_MF_DIRECT,GTPase activator activity,7.0,0.0036,0.021
+GOTERM_BP_DIRECT,negative regulation of anoikis,3.0,0.0038,0.033
+KEGG_PATHWAY,Longevity regulating pathway - multiple species,5.0,0.0038,0.0066
+GOTERM_BP_DIRECT,natural killer cell differentiation,3.0,0.0042,0.036
+GOTERM_BP_DIRECT,embryonic hemopoiesis,3.0,0.0042,0.036
+GOTERM_BP_DIRECT,positive regulation of leukocyte migration,3.0,0.0042,0.036
+KEGG_PATHWAY,Asthma,4.0,0.0043,0.0074
+GOTERM_MF_DIRECT,protein homodimerization activity,11.0,0.0044,0.025
+KEGG_PATHWAY,GnRH secretion,5.0,0.0045,0.0077
+KEGG_PATHWAY,Calcium signaling pathway,9.0,0.0047,0.008
+GOTERM_BP_DIRECT,positive regulation of epithelial cell proliferation,4.0,0.0049,0.041
+GOTERM_BP_DIRECT,erythrocyte differentiation,4.0,0.0049,0.041
+GOTERM_BP_DIRECT,myelination,4.0,0.0049,0.041
+GOTERM_CC_DIRECT,cytoplasmic vesicle,8.0,0.0049,0.031
+GOTERM_BP_DIRECT,positive regulation of T cell migration,3.0,0.0056,0.047
+KEGG_PATHWAY,Efferocytosis,7.0,0.0057,0.0095
+GOTERM_BP_DIRECT,heart development,6.0,0.006,0.049
+GOTERM_BP_DIRECT,hemopoiesis,4.0,0.006,0.049
+GOTERM_BP_DIRECT,regulation of synaptic vesicle endocytosis,3.0,0.0061,0.049
+GOTERM_BP_DIRECT,actin filament-based movement,3.0,0.0061,0.049
+GOTERM_BP_DIRECT,megakaryocyte development,3.0,0.0061,0.049
+GOTERM_BP_DIRECT,positive regulation of MAP kinase activity,3.0,0.0061,0.049
+GOTERM_CC_DIRECT,growth cone,5.0,0.0066,0.041
+GOTERM_BP_DIRECT,phosphatidylinositol-3-phosphate biosynthetic process,3.0,0.0066,0.053
+GOTERM_MF_DIRECT,protein domain specific binding,6.0,0.0067,0.037
+GOTERM_MF_DIRECT,scaffold protein binding,4.0,0.0071,0.038
+GOTERM_BP_DIRECT,monocyte differentiation,3.0,0.0072,0.057
+GOTERM_BP_DIRECT,regulation of multicellular organism growth,3.0,0.0072,0.057
+GOTERM_CC_DIRECT,filopodium,4.0,0.0078,0.047
+KEGG_PATHWAY,Necroptosis,7.0,0.0078,0.013
+KEGG_PATHWAY,Autophagy - animal,7.0,0.008,0.013
+GOTERM_BP_DIRECT,negative regulation of programmed cell death,3.0,0.0084,0.066
+KEGG_PATHWAY,Leishmaniasis,5.0,0.0086,0.014
+KEGG_PATHWAY,cAMP signaling pathway,8.0,0.0088,0.014
+GOTERM_BP_DIRECT,positive regulation of interleukin-17 production,3.0,0.009,0.069
+GOTERM_BP_DIRECT,positive regulation of vascular endothelial cell proliferation,3.0,0.009,0.069
+GOTERM_BP_DIRECT,positive regulation of focal adhesion assembly,3.0,0.009,0.069
+GOTERM_BP_DIRECT,apoptotic process,10.0,0.0095,0.073
+GOTERM_BP_DIRECT,positive regulation of angiogenesis,5.0,0.0096,0.073
+GOTERM_CC_DIRECT,ERBB3:ERBB2 complex,2.0,0.0097,0.056
+GOTERM_CC_DIRECT,interleukin-2 receptor complex,2.0,0.0097,0.056
+GOTERM_CC_DIRECT,endosome,7.0,0.01,0.056
+GOTERM_BP_DIRECT,response to xenobiotic stimulus,6.0,0.01,0.077
+GOTERM_BP_DIRECT,"regulation of CD4-positive, alpha-beta T cell proliferation",2.0,0.01,0.077
+GOTERM_BP_DIRECT,helper T cell diapedesis,2.0,0.01,0.077
+GOTERM_MF_DIRECT,growth factor activity,5.0,0.01,0.055
+GOTERM_BP_DIRECT,positive regulation of cell growth,4.0,0.011,0.085
+GOTERM_BP_DIRECT,negative regulation of stress fiber assembly,3.0,0.012,0.086
+GOTERM_BP_DIRECT,positive regulation of immunoglobulin production,3.0,0.012,0.086
+GOTERM_BP_DIRECT,cell population proliferation,5.0,0.012,0.09
+GOTERM_BP_DIRECT,positive regulation of epidermal growth factor receptor signaling pathway,3.0,0.012,0.09
+GOTERM_BP_DIRECT,natural killer cell activation,3.0,0.012,0.09
+GOTERM_BP_DIRECT,regulation of actin filament polymerization,3.0,0.013,0.095
+KEGG_PATHWAY,Gap junction,5.0,0.013,0.022
+GOTERM_BP_DIRECT,endodermal cell differentiation,3.0,0.014,0.099
+GOTERM_CC_DIRECT,nucleus,45.0,0.014,0.076
+GOTERM_MF_DIRECT,protein heterodimerization activity,7.0,0.014,0.074
+GOTERM_BP_DIRECT,cellular response to nerve growth factor stimulus,3.0,0.015,0.1
+GOTERM_BP_DIRECT,response to interleukin-1,3.0,0.015,0.1
+GOTERM_BP_DIRECT,extrinsic apoptotic signaling pathway in absence of ligand,3.0,0.015,0.1
+GOTERM_CC_DIRECT,interleukin-12 receptor complex,2.0,0.015,0.077
+GOTERM_MF_DIRECT,interleukin-2 receptor activity,2.0,0.015,0.074
+GOTERM_MF_DIRECT,interleukin-2 binding,2.0,0.015,0.074
+GOTERM_MF_DIRECT,epidermal growth factor receptor activity,2.0,0.015,0.074
+GOTERM_MF_DIRECT,neuregulin receptor activity,2.0,0.015,0.074
+GOTERM_BP_DIRECT,response to interleukin-15,2.0,0.015,0.1
+GOTERM_BP_DIRECT,leukocyte mediated immunity,2.0,0.015,0.1
+GOTERM_BP_DIRECT,regulation of alpha-beta T cell activation,2.0,0.015,0.1
+GOTERM_BP_DIRECT,negative regulation of mast cell apoptotic process,2.0,0.015,0.1
+GOTERM_BP_DIRECT,development of secondary female sexual characteristics,2.0,0.015,0.1
+GOTERM_BP_DIRECT,development of secondary male sexual characteristics,2.0,0.015,0.1
+GOTERM_BP_DIRECT,regulation of platelet-derived growth factor receptor-alpha signaling pathway,2.0,0.015,0.1
+GOTERM_BP_DIRECT,regulation of T cell homeostatic proliferation,2.0,0.015,0.1
+GOTERM_BP_DIRECT,cerebellar neuron development,2.0,0.015,0.1
+GOTERM_BP_DIRECT,melanocyte migration,2.0,0.015,0.1
+GOTERM_BP_DIRECT,intracellular signaling cassette,2.0,0.015,0.1
+GOTERM_BP_DIRECT,leukocyte cell-cell adhesion,3.0,0.015,0.1
+KEGG_PATHWAY,GnRH signaling pathway,5.0,0.016,0.025
+KEGG_PATHWAY,Vibrio cholerae infection,4.0,0.016,0.025
+GOTERM_BP_DIRECT,macrophage differentiation,3.0,0.016,0.11
+GOTERM_BP_DIRECT,positive regulation of interleukin-6 production,4.0,0.016,0.11
+GOTERM_BP_DIRECT,response to hydrogen peroxide,3.0,0.017,0.11
+KEGG_PATHWAY,Transcriptional misregulation in cancer,7.0,0.018,0.028
+GOTERM_CC_DIRECT,vesicle membrane,3.0,0.018,0.093
+GOTERM_BP_DIRECT,immunoglobulin mediated immune response,4.0,0.018,0.12
+GOTERM_BP_DIRECT,dendrite morphogenesis,3.0,0.019,0.12
+GOTERM_BP_DIRECT,positive regulation of T cell differentiation,3.0,0.019,0.12
+GOTERM_BP_DIRECT,positive regulation of calcium-mediated signaling,3.0,0.019,0.12
+GOTERM_BP_DIRECT,regulation of signal transduction,4.0,0.019,0.12
+GOTERM_BP_DIRECT,male gonad development,4.0,0.019,0.12
+GOTERM_CC_DIRECT,TCR signalosome,2.0,0.019,0.096
+GOTERM_CC_DIRECT,interleukin-23 receptor complex,2.0,0.019,0.096
+KEGG_PATHWAY,Diabetic cardiomyopathy,7.0,0.019,0.03
+GOTERM_BP_DIRECT,axon guidance,5.0,0.019,0.12
+GOTERM_BP_DIRECT,positive regulation of protein import into nucleus,3.0,0.019,0.12
+GOTERM_MF_DIRECT,cytokine activity,5.0,0.02,0.093
+GOTERM_MF_DIRECT,ubiquitin protein ligase binding,6.0,0.02,0.093
+GOTERM_MF_DIRECT,CD8 receptor binding,2.0,0.02,0.094
+GOTERM_BP_DIRECT,activation of Janus kinase activity,2.0,0.02,0.13
+GOTERM_BP_DIRECT,mast cell chemotaxis,2.0,0.02,0.13
+GOTERM_BP_DIRECT,response to interleukin-2,2.0,0.02,0.13
+GOTERM_BP_DIRECT,mast cell apoptotic process,2.0,0.02,0.13
+GOTERM_BP_DIRECT,NK T cell differentiation,2.0,0.02,0.13
+GOTERM_BP_DIRECT,lipopolysaccharide-mediated signaling pathway,3.0,0.02,0.13
+GOTERM_BP_DIRECT,positive regulation of nitric oxide biosynthetic process,3.0,0.02,0.13
+GOTERM_BP_DIRECT,cell motility,3.0,0.021,0.13
+GOTERM_BP_DIRECT,positive regulation of interleukin-12 production,3.0,0.021,0.13
+GOTERM_BP_DIRECT,regulation of immune response,3.0,0.022,0.13
+GOTERM_BP_DIRECT,regulation of canonical NF-kappaB signal transduction,3.0,0.022,0.13
+GOTERM_BP_DIRECT,regulation of cell migration,4.0,0.023,0.14
+GOTERM_BP_DIRECT,cell differentiation,10.0,0.023,0.14
+KEGG_PATHWAY,Non-alcoholic fatty liver disease,6.0,0.023,0.036
+GOTERM_BP_DIRECT,negative regulation of cell population proliferation,7.0,0.023,0.14
+KEGG_PATHWAY,Prion disease,8.0,0.024,0.036
+GOTERM_BP_DIRECT,release of sequestered calcium ion into cytosol,3.0,0.024,0.14
+GOTERM_BP_DIRECT,establishment of cell polarity,3.0,0.024,0.14
+GOTERM_BP_DIRECT,cellular response to amyloid-beta,3.0,0.024,0.14
+GOTERM_BP_DIRECT,semaphorin-plexin signaling pathway,3.0,0.025,0.14
+GOTERM_MF_DIRECT,IgE binding,2.0,0.025,0.11
+GOTERM_MF_DIRECT,structural constituent of cytoskeleton,4.0,0.025,0.11
+GOTERM_BP_DIRECT,postsynaptic specialization assembly,2.0,0.025,0.14
+GOTERM_BP_DIRECT,regulation of steroid metabolic process,2.0,0.025,0.14
+GOTERM_BP_DIRECT,macrophage colony-stimulating factor signaling pathway,2.0,0.025,0.14
+GOTERM_BP_DIRECT,vascular endothelial cell response to oscillatory fluid shear stress,2.0,0.025,0.14
+GOTERM_BP_DIRECT,ERBB2-ERBB4 signaling pathway,2.0,0.025,0.14
+GOTERM_BP_DIRECT,positive regulation of neutrophil apoptotic process,2.0,0.025,0.14
+GOTERM_BP_DIRECT,positive regulation of leukocyte cell-cell adhesion,2.0,0.025,0.14
+GOTERM_BP_DIRECT,spindle localization,2.0,0.025,0.14
+GOTERM_BP_DIRECT,regulation of B cell activation,2.0,0.025,0.14
+GOTERM_BP_DIRECT,positive regulation of dendritic cell cytokine production,2.0,0.025,0.14
+GOTERM_BP_DIRECT,collagen-activated signaling pathway,2.0,0.025,0.14
+GOTERM_BP_DIRECT,type I interferon-mediated signaling pathway,3.0,0.026,0.15
+GOTERM_BP_DIRECT,blood vessel development,3.0,0.026,0.15
+KEGG_PATHWAY,Progesterone-mediated oocyte maturation,5.0,0.027,0.041
+GOTERM_BP_DIRECT,response to ethanol,4.0,0.028,0.16
+GOTERM_BP_DIRECT,phosphatidylinositol biosynthetic process,3.0,0.029,0.16
+GOTERM_BP_DIRECT,vasodilation,3.0,0.029,0.16
+GOTERM_MF_DIRECT,1-phosphatidylinositol-3-kinase regulator activity,2.0,0.03,0.13
+GOTERM_BP_DIRECT,establishment or maintenance of cell polarity,3.0,0.03,0.16
+GOTERM_BP_DIRECT,B cell proliferation involved in immune response,2.0,0.03,0.16
+GOTERM_BP_DIRECT,platelet-derived growth factor receptor-beta signaling pathway,2.0,0.03,0.16
+GOTERM_BP_DIRECT,taurine metabolic process,2.0,0.03,0.16
+GOTERM_BP_DIRECT,response to interleukin-4,2.0,0.03,0.16
+GOTERM_BP_DIRECT,myeloid leukocyte differentiation,2.0,0.03,0.16
+GOTERM_BP_DIRECT,vesicle transport along actin filament,2.0,0.03,0.16
+GOTERM_BP_DIRECT,natural killer cell proliferation,2.0,0.03,0.16
+GOTERM_BP_DIRECT,regulation of epithelial cell migration,2.0,0.03,0.16
+GOTERM_CC_DIRECT,anchoring junction,4.0,0.031,0.15
+GOTERM_BP_DIRECT,ERK1 and ERK2 cascade,3.0,0.032,0.17
+GOTERM_CC_DIRECT,gamma-delta T cell receptor complex,2.0,0.034,0.16
+GOTERM_BP_DIRECT,positive regulation of canonical NF-kappaB signal transduction,5.0,0.034,0.18
+GOTERM_BP_DIRECT,forebrain development,3.0,0.034,0.18
+GOTERM_BP_DIRECT,small GTPase-mediated signal transduction,4.0,0.034,0.18
+GOTERM_MF_DIRECT,phosphatidylinositol 3-kinase activator activity,2.0,0.035,0.15
+GOTERM_BP_DIRECT,immune system process,4.0,0.035,0.18
+GOTERM_BP_DIRECT,positive regulation of interleukin-23 production,2.0,0.035,0.18
+GOTERM_BP_DIRECT,cellular response to interleukin-3,2.0,0.035,0.18
+GOTERM_BP_DIRECT,regulation of T cell migration,2.0,0.035,0.18
+GOTERM_BP_DIRECT,immune response-activating cell surface receptor signaling pathway,2.0,0.035,0.18
+GOTERM_BP_DIRECT,thrombopoietin-mediated signaling pathway,2.0,0.035,0.18
+GOTERM_BP_DIRECT,positive regulation of signaling,2.0,0.035,0.18
+GOTERM_BP_DIRECT,actin filament-based process,2.0,0.035,0.18
+GOTERM_BP_DIRECT,actin polymerization-dependent cell motility,2.0,0.035,0.18
+GOTERM_BP_DIRECT,leukemia inhibitory factor signaling pathway,2.0,0.035,0.18
+GOTERM_BP_DIRECT,positive regulation of phagocytosis,3.0,0.036,0.18
+KEGG_PATHWAY,Viral myocarditis,4.0,0.036,0.054
+GOTERM_BP_DIRECT,positive regulation of protein localization to plasma membrane,3.0,0.037,0.18
+GOTERM_CC_DIRECT,postsynapse,5.0,0.037,0.17
+GOTERM_CC_DIRECT,RNA polymerase II transcription regulator complex,4.0,0.038,0.17
+GOTERM_BP_DIRECT,transcription by RNA polymerase II,5.0,0.038,0.19
+GOTERM_BP_DIRECT,response to lipopolysaccharide,4.0,0.04,0.19
+GOTERM_MF_DIRECT,inositol-polyphosphate 5-phosphatase activity,2.0,0.04,0.17
+GOTERM_MF_DIRECT,protein antigen binding,2.0,0.04,0.17
+GOTERM_MF_DIRECT,CCR5 chemokine receptor binding,2.0,0.04,0.17
+GOTERM_BP_DIRECT,alpha-beta T cell activation,2.0,0.04,0.19
+GOTERM_BP_DIRECT,ERBB2 signaling pathway,2.0,0.04,0.19
+GOTERM_BP_DIRECT,ciliary neurotrophic factor-mediated signaling pathway,2.0,0.04,0.19
+GOTERM_BP_DIRECT,negative regulation of neutrophil activation,2.0,0.04,0.19
+GOTERM_BP_DIRECT,myeloid progenitor cell differentiation,2.0,0.04,0.19
+GOTERM_BP_DIRECT,luteinization,2.0,0.04,0.19
+GOTERM_BP_DIRECT,interleukin-23-mediated signaling pathway,2.0,0.04,0.19
+GOTERM_BP_DIRECT,Peyer's patch development,2.0,0.04,0.19
+GOTERM_BP_DIRECT,positive regulation of protein tyrosine kinase activity,2.0,0.04,0.19
+GOTERM_BP_DIRECT,oncostatin-M-mediated signaling pathway,2.0,0.04,0.19
+GOTERM_BP_DIRECT,positive regulation of cell communication,2.0,0.04,0.19
+GOTERM_BP_DIRECT,interleukin-4-mediated signaling pathway,2.0,0.04,0.19
+GOTERM_BP_DIRECT,gene expression,5.0,0.041,0.2
+GOTERM_CC_DIRECT,cell leading edge,3.0,0.042,0.19
+GOTERM_BP_DIRECT,response to nutrient,3.0,0.042,0.2
+GOTERM_MF_DIRECT,transmembrane transporter binding,4.0,0.043,0.18
+GOTERM_CC_DIRECT,extrinsic component of plasma membrane,2.0,0.043,0.19
+GOTERM_MF_DIRECT,coreceptor activity,3.0,0.044,0.18
+GOTERM_MF_DIRECT,CD4 receptor binding,2.0,0.045,0.18
+GOTERM_BP_DIRECT,response to ischemia,3.0,0.045,0.2
+GOTERM_BP_DIRECT,myeloid cell apoptotic process,2.0,0.045,0.2
+GOTERM_BP_DIRECT,regulation of epithelial cell differentiation,2.0,0.045,0.2
+GOTERM_BP_DIRECT,mammary gland epithelium development,2.0,0.045,0.2
+GOTERM_BP_DIRECT,ubiquitin-dependent endocytosis,2.0,0.045,0.2
+GOTERM_BP_DIRECT,interleukin-12-mediated signaling pathway,2.0,0.045,0.2
+GOTERM_BP_DIRECT,protein localization to cell-cell junction,2.0,0.045,0.2
+GOTERM_BP_DIRECT,hepatocyte growth factor receptor signaling pathway,2.0,0.045,0.2
+GOTERM_BP_DIRECT,regulation of endothelial cell migration,2.0,0.045,0.2
+GOTERM_BP_DIRECT,regulation of lamellipodium assembly,2.0,0.045,0.2
+GOTERM_BP_DIRECT,ERBB2-EGFR signaling pathway,2.0,0.045,0.2
+GOTERM_BP_DIRECT,ERBB2-ERBB3 signaling pathway,2.0,0.045,0.2
+GOTERM_BP_DIRECT,positive regulation of protein localization to membrane,2.0,0.045,0.2
+GOTERM_BP_DIRECT,hyperosmotic response,2.0,0.045,0.2
+GOTERM_BP_DIRECT,regulation of cell adhesion mediated by integrin,2.0,0.045,0.2
+GOTERM_BP_DIRECT,defense response,4.0,0.045,0.2
+GOTERM_CC_DIRECT,clathrin-coated endocytic vesicle membrane,3.0,0.046,0.2
+GOTERM_BP_DIRECT,symbiont entry into host cell,3.0,0.046,0.21
+GOTERM_CC_DIRECT,basolateral plasma membrane,5.0,0.047,0.2
+GOTERM_MF_DIRECT,"phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity",2.0,0.05,0.2
+GOTERM_BP_DIRECT,regulation of mast cell degranulation,2.0,0.05,0.22
+GOTERM_BP_DIRECT,negative regulation of erythrocyte differentiation,2.0,0.05,0.22
+GOTERM_BP_DIRECT,cortical cytoskeleton organization,2.0,0.05,0.22
+GOTERM_BP_DIRECT,positive regulation of small GTPase mediated signal transduction,2.0,0.05,0.22
+GOTERM_BP_DIRECT,positive regulation of NK T cell proliferation,2.0,0.05,0.22
+GOTERM_BP_DIRECT,positive regulation of natural killer cell differentiation,2.0,0.05,0.22
+GOTERM_BP_DIRECT,protein K63-linked ubiquitination,3.0,0.051,0.22
+GOTERM_BP_DIRECT,cellular response to hydrogen peroxide,3.0,0.052,0.23
+GOTERM_BP_DIRECT,cellular response to amino acid stimulus,3.0,0.054,0.23
+GOTERM_MF_DIRECT,platelet-derived growth factor binding,2.0,0.054,0.21
+GOTERM_BP_DIRECT,negative regulation of myeloid cell apoptotic process,2.0,0.055,0.23
+GOTERM_BP_DIRECT,positive regulation of lipopolysaccharide-mediated signaling pathway,2.0,0.055,0.23
+GOTERM_BP_DIRECT,NK T cell activation,2.0,0.055,0.23
+GOTERM_BP_DIRECT,regulation of nitric oxide biosynthetic process,2.0,0.055,0.23
+GOTERM_BP_DIRECT,type III interferon-mediated signaling pathway,2.0,0.055,0.23
+GOTERM_BP_DIRECT,progesterone metabolic process,2.0,0.055,0.23
+GOTERM_BP_DIRECT,regulation of bone resorption,2.0,0.055,0.23
+GOTERM_BP_DIRECT,Bergmann glial cell differentiation,2.0,0.055,0.23
+GOTERM_BP_DIRECT,cellular response to retinoic acid,3.0,0.055,0.23
+GOTERM_BP_DIRECT,hematopoietic progenitor cell differentiation,3.0,0.056,0.24
+GOTERM_CC_DIRECT,alpha-beta T cell receptor complex,2.0,0.057,0.24
+GOTERM_BP_DIRECT,phagocytosis,3.0,0.059,0.25
+GOTERM_MF_DIRECT,profilin binding,2.0,0.059,0.23
+GOTERM_BP_DIRECT,positive thymic T cell selection,2.0,0.06,0.25
+GOTERM_BP_DIRECT,cellular response to granulocyte macrophage colony-stimulating factor stimulus,2.0,0.06,0.25
+GOTERM_BP_DIRECT,endothelin receptor signaling pathway,2.0,0.06,0.25
+GOTERM_BP_DIRECT,collagen-activated tyrosine kinase receptor signaling pathway,2.0,0.06,0.25
+GOTERM_BP_DIRECT,interleukin-10-mediated signaling pathway,2.0,0.06,0.25
+GOTERM_MF_DIRECT,protein serine/threonine kinase activity,6.0,0.06,0.23
+GOTERM_BP_DIRECT,cellular response to mechanical stimulus,3.0,0.062,0.26
+KEGG_PATHWAY,Spinocerebellar ataxia,5.0,0.062,0.093
+GOTERM_BP_DIRECT,regulation of apoptotic process,5.0,0.062,0.26
+OMIM_DISEASE,"Ovarian cancer, somatic",2.0,0.063,1.0
+GOTERM_BP_DIRECT,positive regulation of cytokine production,3.0,0.063,0.26
+GOTERM_BP_DIRECT,positive regulation of platelet aggregation,2.0,0.064,0.26
+GOTERM_BP_DIRECT,positive regulation of T-helper 17 type immune response,2.0,0.064,0.26
+GOTERM_BP_DIRECT,negative regulation of cell adhesion mediated by integrin,2.0,0.064,0.26
+GOTERM_BP_DIRECT,cellular response to fluid shear stress,2.0,0.064,0.26
+GOTERM_BP_DIRECT,ruffle assembly,2.0,0.064,0.26
+GOTERM_BP_DIRECT,female pregnancy,3.0,0.066,0.27
+GOTERM_CC_DIRECT,stress fiber,3.0,0.066,0.27
+KEGG_PATHWAY,Bladder cancer,3.0,0.067,0.1
+GOTERM_MF_DIRECT,promoter-specific chromatin binding,3.0,0.068,0.25
+GOTERM_MF_DIRECT,C-type glycerophospholipase activity,2.0,0.069,0.25
+GOTERM_BP_DIRECT,positive regulation of macrophage proliferation,2.0,0.069,0.28
+GOTERM_BP_DIRECT,negative regulation of cell motility,2.0,0.069,0.28
+GOTERM_BP_DIRECT,eyelid development in camera-type eye,2.0,0.069,0.28
+GOTERM_BP_DIRECT,ruffle organization,2.0,0.069,0.28
+GOTERM_BP_DIRECT,"negative regulation of CD4-positive, alpha-beta T cell proliferation",2.0,0.069,0.28
+GOTERM_BP_DIRECT,response to estradiol,3.0,0.07,0.28
+GOTERM_BP_DIRECT,cellular response to lipopolysaccharide,4.0,0.073,0.29
+GOTERM_BP_DIRECT,Fc-gamma receptor signaling pathway,2.0,0.074,0.29
+GOTERM_BP_DIRECT,response to yeast,2.0,0.074,0.29
+GOTERM_BP_DIRECT,motor neuron apoptotic process,2.0,0.074,0.29
+GOTERM_BP_DIRECT,neurotrophin TRK receptor signaling pathway,2.0,0.074,0.29
+GOTERM_MF_DIRECT,ATPase binding,3.0,0.077,0.28
+GOTERM_BP_DIRECT,ossification,3.0,0.078,0.3
+GOTERM_BP_DIRECT,MyD88-dependent toll-like receptor signaling pathway,2.0,0.079,0.31
+GOTERM_BP_DIRECT,regulation of signaling,2.0,0.079,0.31
+KEGG_PATHWAY,Cellular senescence,5.0,0.08,0.12
+OMIM_DISEASE,"Gastric cancer, somatic",2.0,0.08,1.0
+GOTERM_BP_DIRECT,lipid metabolic process,5.0,0.082,0.32
+GOTERM_MF_DIRECT,MHC class II receptor activity,2.0,0.083,0.29
+GOTERM_MF_DIRECT,kinase activator activity,2.0,0.083,0.29
+GOTERM_BP_DIRECT,regulation of dendrite development,2.0,0.083,0.32
+GOTERM_BP_DIRECT,sphingosine-1-phosphate receptor signaling pathway,2.0,0.083,0.32
+GOTERM_BP_DIRECT,positive regulation of smooth muscle cell migration,2.0,0.083,0.32
+GOTERM_BP_DIRECT,vesicle budding from membrane,2.0,0.083,0.32
+GOTERM_BP_DIRECT,liver development,3.0,0.084,0.32
+KEGG_PATHWAY,Viral protein interaction with cytokine and cytokine receptor,4.0,0.085,0.12
+GOTERM_BP_DIRECT,negative regulation of developmental process,2.0,0.088,0.33
+GOTERM_BP_DIRECT,p38MAPK cascade,2.0,0.088,0.33
+GOTERM_BP_DIRECT,negative regulation of B cell proliferation,2.0,0.088,0.33
+GOTERM_BP_DIRECT,negative regulation of bone resorption,2.0,0.088,0.33
+GOTERM_BP_DIRECT,dendritic cell differentiation,2.0,0.088,0.33
+GOTERM_BP_DIRECT,cell-cell adhesion mediated by integrin,2.0,0.088,0.33
+GOTERM_BP_DIRECT,positive regulation of regulatory T cell differentiation,2.0,0.088,0.33
+GOTERM_CC_DIRECT,endosome membrane,5.0,0.09,0.36
+GOTERM_MF_DIRECT,proline-rich region binding,2.0,0.092,0.32
+GOTERM_BP_DIRECT,cellular response to oxygen-containing compound,2.0,0.093,0.35
+GOTERM_BP_DIRECT,ectopic germ cell programmed cell death,2.0,0.093,0.35
+GOTERM_BP_DIRECT,regulation of cell motility,2.0,0.093,0.35
+GOTERM_BP_DIRECT,negative regulation of gene expression,5.0,0.094,0.35
+KEGG_PATHWAY,Intestinal immune network for IgA production,3.0,0.094,0.14
+GOTERM_BP_DIRECT,signal transduction in response to DNA damage,2.0,0.097,0.36
+GOTERM_BP_DIRECT,regulation of hemopoiesis,2.0,0.097,0.36
+GOTERM_BP_DIRECT,leukocyte tethering or rolling,2.0,0.097,0.36
+GOTERM_BP_DIRECT,regulation of T cell proliferation,2.0,0.097,0.36
